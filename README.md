@@ -1,19 +1,11 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gabriel Hajera - Actor & Model</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
-    header { background-color: #333; color: white; padding: 20px; text-align: center; }
-    nav a { margin: 0 10px; color: white; text-decoration: none; }
-    section { padding: 20px; max-width: 800px; margin: auto; background: white; margin-top: 20px; border-radius: 8px; }
-    footer { text-align: center; padding: 10px; background-color: #333; color: white; margin-top: 20px; }
-    img { max-width: 100%; height: auto; }
-  </style>
-</head>
+  <head>
+    
+  </head>
+  <title>Gabriel Hajera - Actor & Model</title
+                                         
 <body>
 
 <header>
@@ -48,8 +40,8 @@
 <section id="contact">
   <h2>Contact</h2>
   <p>Phone: +254713986275</p>
-  <p>Email: your-email@example.com</p>
-  <p>Instagram: your-instagram-handle</p>
+  <p>Email: gabyhodari72@gmail.com 
+  <p>Instagram: Gabriel Omondi
 </section>
 
 <footer>
